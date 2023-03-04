@@ -9,7 +9,7 @@ function Type() {
           "Developer",
           "Deep Learning Enthusiast",
           "MERN Stack Developer",
-          "Ethical Hacking",
+          "Ethical Hacking Learner",
         ],
         autoStart: true,
         loop: true,
